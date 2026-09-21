@@ -1,18 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Marco Gonzales
 
-<h1 align="center">Hi 👋, I'm Marco Gonzales</h1>
-<h3 align="center">I'm economics with specialization in Data Science.</h3>
+## Data Analyst | Economics | Power BI • SQL • Python • Excel
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+Economics graduate with professional experience in **operational, financial,
+and risk analytics**.
 
-- 💬 Ask me about **Python, R, SQL, finance, statistics**
+I have worked with large operational datasets, KPI development, data-quality
+controls, automation, business intelligence dashboards, and financial analysis.
 
-- 📫 How to reach me **marcomachinelearning56@gmail.com**
+My focus is turning raw data into **reliable information, actionable insights,
+and better business decisions**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcogonzaleseconomics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcogonzaleseconomics" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🔎 What I Work On
+
+- 📊 Business Intelligence & KPI Development
+- 🐍 Python Data Analysis
+- 🗄️ SQL Data Analysis
+- 📈 Power BI Dashboards
+- ⚙️ Excel & VBA Automation
+- 💳 Financial & Credit Risk Analytics
+- 🧹 Data Cleaning & Quality Controls
+
+---
+
+## 🚀 Featured Portfolio
+
+### Data Analytics Portfolio
+
+Real-world inspired projects based on professional analytical workflows.
+
+**Excel/VBA • Power BI • Python • SQL**
+
+👉 [View my Data Analytics Portfolio](https://github.com/Marco-finance-ml/data-analytics-portfolio)
+
+---
+
+## 🧰 Technical Stack
+
+**Data Analysis:** Python • SQL • Advanced Excel  
+**Business Intelligence:** Power BI • Power Query • DAX  
+**Automation:** VBA / Macros  
+**Analytics:** Data Cleaning • KPI Development • Statistics • Machine Learning
+
+---
+
+## 📫 Connect with me
+
+[LinkedIn](TU_LINKEDIN)
