@@ -31,7 +31,7 @@ Proyectos inspirados en casos reales y flujos de trabajo analíticos profesional
 
 **Excel/VBA • Power BI • Python • SQL**
 
-👉 [Ver mi Portafolio de Análisis de Datos](AQUI_VA_TU_LINK)
+👉 [Ver mi Portafolio de Análisis de Datos](https://github.com/Marco-finance-ml/Marco-finance-ml/edit/main/README_ESP.md)
 
 ---
 
